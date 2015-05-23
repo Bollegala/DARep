@@ -11,5 +11,6 @@ This package implements the unsupervised cross-domain word representation learni
 Please refer the paper for the details of the algorithms. 
 
 Source code can be found in /src.
+
 The pre-processed Amazon multi-domain sentiment dataset can be found in /data
 
